@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/img/blank.aaa0b6ad.svg"
   },
   {
-    "revision": "b44b93074db322307bc1",
-    "url": "/js/app.5d48793f.js"
+    "revision": "fef0edb78905a60875a3",
+    "url": "/js/app.21f226bb.js"
   },
   {
     "revision": "53ee70f10f57d14f57c3",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/install.json"
   },
   {
-    "revision": "c1b5983ece29cbda5fbe4c4cb062ad5e",
+    "revision": "11bee044c77c5c97e1842727d44aef44",
     "url": "/index.html"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-c149c6fc.d03348b2.css"
   },
   {
-    "revision": "b44b93074db322307bc1",
+    "revision": "fef0edb78905a60875a3",
     "url": "/css/app.df76c4a9.css"
   },
   {
