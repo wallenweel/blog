@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.59849211100c5367f8e3a1cac39fa04b.js"
+  "/precache-manifest.92134738ee3a2951bfddd724d5713321.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "giblog"});
