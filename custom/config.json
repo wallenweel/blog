@@ -2,9 +2,9 @@
   {
     "title": "GiBlog Alpha",
     "description": "GitHub Issues Blog.",
-    "owner": "",
-    "email": "",
-    "theme": "",
+    "owner": "Vince Weel",
+    "email": "vince_weel@outlook.com",
+    "theme": "Dark",
     "repo": "blog",
     "username": "wallenweel",
     "password": "",
